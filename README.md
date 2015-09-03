@@ -3,7 +3,9 @@ permalink: /
 title: First 15 minutes in Elixir
 ---
 
-# Elixir
+# Elixir "Hello World"
+
+<small>[visit the github repo](https://github.com/potherca/elixir/)</small>
 
 ## Introduction
 
