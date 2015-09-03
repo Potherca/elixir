@@ -13,7 +13,8 @@ what the [Elixir] programming languages is like. This is what happened.
   Ofcourse, as Elixir is build on top of the Erlang VM, one of the dependencies was Erlang which took
   some time to download and install, being 7460 files and 286MB.
 - `elixir -v` -> Elixir 1.0.5
-- Wrote a 'hello world'
+- Wrote a ['hello world'](hello-world.exs)
+- Looked up [`IO.puts` in the manual](http://elixir-lang.org/docs/stable/elixir/)
 
 [Elixir on Wikipedia]:  https://en.wikipedia.org/wiki/Elixir_(programming_language)
 [Elixir]: http://elixir-lang.org/
