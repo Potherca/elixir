@@ -18,7 +18,7 @@ what the [Elixir] programming languages is like.
 - Looked up [Elixir on Wikipedia] to get some background (like the fact that the 
   language started in 2012).
 - [Installed Elixir](http://elixir-lang.org/install.html), `brew install elixir` 
-  for OSX or `sudo apt-get install elixir` on Debian/Ubuntu
+  for OSX or `sudo apt-get install elixir` on Debian/Ubuntu.
   Of course, as Elixir is build on top of the Erlang VM, one of the dependencies 
   was Erlang which took some time to download and install, being 7460 files and 286MB.
 - `elixir -v` -> Elixir 1.0.5
