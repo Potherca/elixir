@@ -1,7 +1,7 @@
----
+<!---
 permalink: /
 title: First 15 minutes in Elixir
----
+--->
 
 # Elixir "Hello World"
 
